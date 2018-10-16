@@ -1,1 +1,4 @@
 yammy food
+chicken
+hamburger
+kimchi
